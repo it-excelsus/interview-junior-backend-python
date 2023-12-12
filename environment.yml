@@ -1,0 +1,39 @@
+name: interview-python
+channels:
+  - defaults
+dependencies:
+  - bzip2=1.0.8
+  - ca-certificates=2023.08.22
+  - libffi=3.4.4
+  - openssl=3.0.12
+  - pip=23.3.1
+  - python=3.10.13
+  - setuptools=68.0.0
+  - sqlite=3.41.2
+  - tk=8.6.12
+  - tzdata=2023c
+  - vc=14.2
+  - vs2015_runtime=14.27.29016
+  - wheel=0.41.2
+  - xz=5.4.5
+  - zlib=1.2.13
+  - pip:
+      - annotated-types==0.6.0
+      - anyio==3.7.1
+      - click==8.1.7
+      - colorama==0.4.6
+      - exceptiongroup==1.2.0
+      - fastapi==0.104.1
+      - h11==0.14.0
+      - httptools==0.6.1
+      - idna==3.6
+      - pydantic==2.5.2
+      - pydantic-core==2.14.5
+      - python-dotenv==1.0.0
+      - pyyaml==6.0.1
+      - sniffio==1.3.0
+      - starlette==0.27.0
+      - typing-extensions==4.9.0
+      - uvicorn==0.24.0.post1
+      - watchfiles==0.21.0
+      - websockets==12.0
