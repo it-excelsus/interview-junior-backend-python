@@ -57,7 +57,7 @@ Implement a backend API for an automated trading system. Include endpoints for p
 
 1. Install Anaconda/Miniconda on your system
 2. Create the Enviroment given with ```conda env create -f environment.yml```
-3. Execute ````start_server.sh``
+3. Execute `start_server.sh`
 
 
 ## Tips
