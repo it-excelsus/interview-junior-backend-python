@@ -4,7 +4,7 @@ Dear Applicant,
 
 Thank you once again for apply for the Junior Backend Developer position at it-excelsus GmbH. With the following task, we would like to assess your coding skills. The expected timeline for this assigment is **one week**.
 
-Below, you will find two folders. The [`backend`](./backend) Folder contains a basic FastAPI application. To start the application please run ´´´./start_server.sh´´´
+Below, you will find two folders. The [`backend`](./backend) Folder contains a basic FastAPI application. To start the application please run `./start_server.sh`
 
 # What is the task?
 
